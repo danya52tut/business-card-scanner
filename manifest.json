@@ -5,7 +5,7 @@
   "minAppVersion": "1.9.0",
   "description": "A plugin for scanning business cards using OCR, supporting English and Russian languages.",
   "author": "danya52tut",
-  "authorUrl": "https://github.com/danya52tut",
+  "authorUrl": "https://github.com/danya52tut/",
   "isDesktopOnly": true,
   "main": "main.js"
 }
