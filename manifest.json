@@ -2,10 +2,12 @@
   "id": "business-card-scanner",
   "name": "Business Card Scanner",
   "version": "1.0.0",
-  "minAppVersion": "1.9.0",
-  "description": "A plugin for scanning business cards using OCR, supporting English and Russian languages.",
+  "minAppVersion": "0.15.0",
+  "description": "A plugin for Obsidian that scans business cards using OCR and saves the recognized text into notes. Supports multiple languages including English and Russian, with image enhancement features.",
   "author": "danya52tut",
   "authorUrl": "https://github.com/danya52tut",
-  "isDesktopOnly": true,
-  "main": "main.js"
+  "fundingUrl": {
+    "GitHub": "https://github.com/danya52tut/business-card-scanner"
+  },
+  "isDesktopOnly": false
 }
